@@ -1,0 +1,63 @@
+body {
+	background: lightcyan;
+	/*width: 1000px;*/
+	border: 3px solid black;
+	/*height: auto;*/
+}
+
+/*.pic {
+	margin: 500px auto;
+	float: left;
+	width: 500px;
+	border: 3px blue solid;
+	margin-left: auto;
+	margin-right: auto;
+	background: red;
+	padding-top: 200px;
+	position: center;
+	display: block;
+}*/
+
+/*.pic img {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    width: auto;
+    height: auto;
+    margin-top: -250px;  Half the height 
+    margin-left: -250px; Half the width 
+}*/
+
+/*.pic {
+	width: 700px;
+	position: center;
+}*/
+
+nav ul {
+	float: right;
+	/*width: 300px;*/
+	border: 3px solid black;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+nav li {
+	display: inline;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.pic {
+	/*float: right;*/
+	border: 3px solid red;
+	margin: auto;
+	padding: 300px;
+}
+
+.search input {
+	width: 500px;
+	height: 30px;
+	border: blue solid 0.5px;
+}
